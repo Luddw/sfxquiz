@@ -1,0 +1,144 @@
+[
+  {
+    "order": 1,
+    "id": "cp2077",
+    "game": "Cyberpunk 2077",
+    "answers": ["cp2077", "cyberpunk2077", "cyberpunk"]
+  },
+  {
+    "order": 2,
+    "id": "apex",
+    "game": "Apex Legends",
+    "answers": [
+      "apex legends",
+      "apex"
+    ]
+  },
+  {
+    "order": 3,
+    "id": "chalenger",
+    "game": "Super Smash Bros",
+    "answers": ["smash bros", "super smash bros"]
+  },
+  {
+    "order": 4,
+    "id": "civ5wonder",
+    "game": "Civilization V",
+    "answers": ["civ5", "civilization 5", "civilization V"]
+  },
+  {
+    "order": 5,
+    "id": "meeting",
+    "game": "Among Us",
+    "answers": ["among us", "amogus"]
+  },
+  {
+    "order": 6,
+    "id": "dsestus",
+    "game": "Dark Souls",
+    "answers": ["dark souls"]
+  },
+  {
+    "order": 7,
+    "id": "dmcmenu",
+    "game": "Devil May Cry",
+    "answers": ["dmc", "devil may cry"]
+  },
+  {
+    "order": 8,
+    "id": "eeoned",
+    "game": "Rainbow Six: Siege",
+    "answers": ["rainbow", "rainbow six", "rss"]
+  },
+  {
+    "order": 9,
+    "id": "ac130",
+    "game": "Call of Duty: Modern Warfare 2",
+    "answers": ["mw2", "call of duty mw2", "modern warfare 2"]
+  },
+  {
+    "order": 10,
+    "id": "ddoverconfidence",
+    "game": "Darkest Dungeon",
+    "answers": ["darkest dungeon"]
+  },
+  {
+    "order": 11,
+    "id": "ff7limit",
+    "game": "Final Fantasy VII",
+    "answers": ["ff7", "ffvii", "final fantasy 7", "final fantasy vii"]
+  },
+  {
+    "order": 12,
+    "id": "flippy",
+    "game": "Diablo II",
+    "answers": ["diablo", "diablo 2", "diablo II"]
+  },
+  {
+    "order": 13,
+    "id": "homm3day",
+    "game": "Heroes of Might and Magic III",
+    "answers": ["homm3", "heroes 3", "heroes III"]
+  },
+  {
+    "order": 14,
+    "id": "hlcbarhit1",
+    "game": "Half-Life",
+    "answers": ["hl", "half life"]
+  },
+  {
+    "order": 15,
+    "id": "holygrenade",
+    "game": "Worms Armageddon",
+    "answers": ["worms"]
+  },
+  {
+    "order": 16,
+    "id": "hotlinecomp",
+    "game": "Hotline Miami",
+    "answers": ["hotline miami"]
+  },
+  {
+    "order": 17,
+    "id": "mcvillage",
+    "game": "Minecraft",
+    "answers": ["minecraft"]
+  },
+  {
+    "order": 18,
+    "id": "quakejump",
+    "game": "Quake",
+    "answers": ["quake"]
+  },
+  {
+    "order": 19,
+    "id": "sekiroperil",
+    "game": "Sekiro",
+    "answers": ["sekiro"]
+  },
+  {
+    "order": 20,
+    "id": "ss64painting",
+    "game": "Super Mario 64",
+    "answers": ["super mario 64", "mario 64"]
+  },
+  {
+    "order": 21,
+    "id": "terrariaboss",
+    "game": "Terraria",
+    "answers": ["terraria"]
+  },
+  {
+    "order": 22,
+    "id": "utheadshot",
+    "game": "Unreal Tournament",
+    "answers": ["ut99", "unreal", "unreal tournament"]
+  },
+  {
+    "order": 23,
+    "id": "wowlevel",
+    "game": "World of Warcraft",
+    "answers": ["wow", "warcraft"]
+  }
+  
+]
